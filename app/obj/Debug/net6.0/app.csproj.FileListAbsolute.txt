@@ -1,0 +1,15 @@
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\bin\Debug\net6.0\app.exe
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\bin\Debug\net6.0\app.deps.json
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\bin\Debug\net6.0\app.runtimeconfig.json
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\bin\Debug\net6.0\app.dll
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\bin\Debug\net6.0\app.pdb
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\obj\Debug\net6.0\app.dll
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\obj\Debug\net6.0\refint\app.dll
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\obj\Debug\net6.0\app.pdb
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+D:\Softuni\Code-Lessons\Programming-Basics-Materials\Programming-Basics-JS-with-HTML\1-PB-JS-First-Steps-in-Coding\app\obj\Debug\net6.0\ref\app.dll
